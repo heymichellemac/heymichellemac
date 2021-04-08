@@ -4,8 +4,8 @@
 I'm a Web Designer & Developer with a passion for the web, productivity, and sharing my knowledge with others.
 
 - My Website: [Mishacreatrix](https://mishacreatrix.com/)
-- Support Me: [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
-- Buy my digital products: [Mishacreatrix Gumroad](https://gumroad.com/mishacreatrix)
+- Buy my digital products: [Mishacreatrix | Gumroad](https://gumroad.com/mishacreatrix)
 - Ask me a question: [Twitter @mishacreatrix](https://twitter.com/MishaCreatrix)
+- Support Me: [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
 
-<a href="https://www.buymeacoffee.com/mishacreatrix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/mishacreatrix" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-.png" alt="Buy Me A Coffee" width="150" ></a>
