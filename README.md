@@ -9,4 +9,11 @@ I'm a Web Designer & Developer with a passion for the web, productivity, and sha
 - Support Me: [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
 
 
-## My Recent Articles➡ more articles...
+## My Recent Articles
+
+➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...  * [Jekyll - How To Limit Posts During The Build Process](https://mishacreatrix.com/limit-posts-jekyll)
+  * [Social Media Kit - Figma 🧰](https://mishacreatrix.com/social-media-kit)
+  * [Why Writing Blog Posts In Markdown Is A Game Changer](https://mishacreatrix.com/blog-posts-in-markdown)
+  * [Eat That Frog! by Brian Tracy - Book Notes, Summary, Review](https://mishacreatrix.com/eat-that-frog-brian-tracy)
+  * [Jekyll - Creating External Links That Open In A New Tab](https://mishacreatrix.com/external-links-jekyll)
+➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...➡ more articles...
