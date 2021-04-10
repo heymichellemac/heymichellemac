@@ -17,3 +17,5 @@
 
     <xsl:template match="text()"/>
 </xsl:stylesheet>
+
+<a href="https://mishacreatrix.com/articles">more articles...</a>
