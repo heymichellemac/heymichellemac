@@ -16,6 +16,11 @@
     </xsl:template>
 
     <xsl:template match="text()"/>
-</xsl:stylesheet>
 
-<a href="https://mishacreatrix.com/articles">more articles...</a>
+    <xsl:template match="/">
+    <html>
+    <a href="https://mishacreatrix.com/articles">more articles...</a>
+    </html>
+    </xsl:template>
+
+</xsl:stylesheet>
