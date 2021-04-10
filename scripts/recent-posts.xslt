@@ -17,10 +17,8 @@
 
     <xsl:template match="text()"/>
 
-    <xsl:template match="text()">
     <html>
     <a href="https://mishacreatrix.com/articles">➡ more articles...</a>
     </html>
-    </xsl:template>
 
 </xsl:stylesheet>
