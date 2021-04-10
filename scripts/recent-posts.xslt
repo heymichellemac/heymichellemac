@@ -19,7 +19,7 @@
 
     <xsl:template match="/">
     <html>
-    <a href="https://mishacreatrix.com/articles">more articles...</a>
+    <a href="https://mishacreatrix.com/articles">➡ more articles...</a>
     </html>
     </xsl:template>
 
