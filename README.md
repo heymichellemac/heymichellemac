@@ -3,11 +3,18 @@
 
 I'm a Designer & Developer who creates things online to share my knowledge of design.
 
-- My Website: [Mishacreatrix](https://mishacreatrix.com/)
+## Free Resources
+- eBook: [Overcome The Blank Screen As A Creator](https://gum.co/blank-screen)
+- My Recommendations: [Things I Recommend](https://www.mishacreatrix.com/recommendations)
+
+## My Work
 - Design Insight Newsletter: [Design Insight](https://designinsight.substack.com/)
-- My digital products: [Mishacreatrix | Gumroad](https://gumroad.com/mishacreatrix)
+- Visit My Website: [Mishacreatrix](https://mishacreatrix.com/)
+- My Gumroad Page: [Mishacreatrix - Gumroad](https://gumroad.com/mishacreatrix)
 - Ask me a question: [Twitter @mishacreatrix](https://twitter.com/MishaCreatrix)
-- Support Me: [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
+
+## Support My Work
+- Support My Work: [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
 
 
 ## My Recent Articles
