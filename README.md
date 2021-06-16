@@ -21,6 +21,6 @@ I'm a Designer & Developer who creates things online to share my knowledge of de
 
   * [Creative Constraints Are Good For You](https://mishacreatrix.com/creative-constraints)
   * [Life Contexts - Cues To Differentiate Between Work And Home](https://mishacreatrix.com/life-contexts)
-  * [Blank Screen - How To Overcome The Blank Page As A Creator](https://mishacreatrix.com/blank-screen-ebook)
+  * [How To Overcome The Blank Page As A Creator](https://mishacreatrix.com/blank-screen-ebook)
   * [9 Apps I Use Daily As A Creator](https://mishacreatrix.com/daily-apps-2021)
   * [The Creator’s Philosophy - Create Once Use Many Times](https://mishacreatrix.com/create-once-use-many-times)
