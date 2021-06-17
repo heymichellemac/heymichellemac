@@ -1,7 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi I'm Michelle
 
 
-I'm a Designer & Developer who creates things online to share my knowledge of design.
+I'm a designer, developer, and creator. I talk about being a productive designer.
+
 
 ## Free Resources
 - eBook: [Overcome The Blank Screen As A Creator](https://gum.co/blank-screen)
