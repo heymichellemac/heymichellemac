@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [Be Consistent - That Is Your One Thing](https://mishacreatrix.com/be-consistent)
   * [Creative Constraints Are Good For You](https://mishacreatrix.com/creative-constraints)
   * [Life Contexts - Cues To Differentiate Between Work And Home](https://mishacreatrix.com/life-contexts)
   * [How To Overcome The Blank Page As A Creator](https://mishacreatrix.com/blank-screen-ebook)
   * [9 Apps I Use Daily As A Creator](https://mishacreatrix.com/daily-apps-2021)
-  * [The Creator’s Philosophy - Create Once Use Many Times](https://mishacreatrix.com/create-once-use-many-times)
