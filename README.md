@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [Establish A Shut Down Routine For Maximum Clarity](https://mishacreatrix.com/shut-down-routine)
   * [5 Ways For A UI Designer To Come Up With Ideas](https://mishacreatrix.com/designer-come-up-with-ideas)
   * [70 Visual Essays In 90 Days](https://mishacreatrix.com/70-visual-essays-90-days)
   * [Be Consistent - That Is Your One Thing](https://mishacreatrix.com/be-consistent)
   * [Creative Constraints Are Good For You](https://mishacreatrix.com/creative-constraints)
-  * [Life Contexts - Cues To Differentiate Between Work And Home](https://mishacreatrix.com/life-contexts)
