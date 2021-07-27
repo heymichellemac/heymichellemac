@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [Jekyll - Add Related Posts At The End Of A Post](https://mishacreatrix.com/jekyll-related-posts)
   * [How To Never Be Bored Again](https://mishacreatrix.com/never-be-bored)
   * [Jekyll - Add An Affiliate Disclaimer To Specific Posts](https://mishacreatrix.com/jekyll-affilate-disclaimer)
   * [Twitter Posting Schedule Printable](https://mishacreatrix.com/twitter-schedule-printable)
   * [Establish A Shut Down Routine For Maximum Clarity](https://mishacreatrix.com/shut-down-routine)
-  * [5 Ways For A UI Designer To Come Up With Ideas](https://mishacreatrix.com/designer-come-up-with-ideas)
