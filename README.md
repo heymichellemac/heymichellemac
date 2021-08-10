@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [Design A Website From Scratch In 7 Steps](https://mishacreatrix.com/design-a-website-from-scratch)
   * [Mind Maps - The Ultimate Getting Started Tool](https://mishacreatrix.com/mind-maps)
   * [Jekyll - Add Related Posts At The End Of A Post](https://mishacreatrix.com/jekyll-related-posts)
   * [How To Never Be Bored Again](https://mishacreatrix.com/never-be-bored)
   * [Jekyll - Add An Affiliate Disclaimer To Specific Posts](https://mishacreatrix.com/jekyll-affilate-disclaimer)
-  * [Twitter Posting Schedule Printable](https://mishacreatrix.com/twitter-schedule-printable)
