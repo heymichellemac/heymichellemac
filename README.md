@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [UI Design Patterns - Character Limits](https://mishacreatrix.com/design-pattern-character-limits)
   * [How To Improve The Usability Of Password Fields](https://mishacreatrix.com/improve-usability-of-password-fields)
   * [Design A Website From Scratch In 7 Steps](https://mishacreatrix.com/design-a-website-from-scratch)
   * [Mind Maps - The Ultimate Getting Started Tool](https://mishacreatrix.com/mind-maps)
   * [Jekyll - Add Related Posts At The End Of A Post](https://mishacreatrix.com/jekyll-related-posts)
-  * [How To Never Be Bored Again](https://mishacreatrix.com/never-be-bored)
