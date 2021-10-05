@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [How To Never Run Out Of Ideas As A Designer](https://mishacreatrix.com/never-run-out-of-ideas)
   * [Design Insight Tools + Resources](https://mishacreatrix.com/design-insight-tools)
   * [A Walkthrough Of My Obsidian Setup](https://mishacreatrix.com/obsidian-setup-sep-2021)
   * [Design Faster, Design Better](https://mishacreatrix.com/design-faster-design-better)
   * [UI Design Patterns - Character Limits](https://mishacreatrix.com/design-pattern-character-limits)
-  * [How To Improve The Usability Of Password Fields](https://mishacreatrix.com/improve-usability-of-password-fields)
