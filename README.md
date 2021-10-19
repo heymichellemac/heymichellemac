@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [10 Ways I Use Figma As A Creator](https://mishacreatrix.com/figma-as-a-creator)
   * [4 Tactics You Should Be Using To Promote Yourself As A Web Designer](https://mishacreatrix.com/web-design-promotion)
   * [How To Never Run Out Of Ideas As A Designer](https://mishacreatrix.com/never-run-out-of-ideas)
   * [Design Insight Tools + Resources](https://mishacreatrix.com/design-insight-tools)
   * [A Walkthrough Of My Obsidian Setup](https://mishacreatrix.com/obsidian-setup-sep-2021)
-  * [Design Faster, Design Better](https://mishacreatrix.com/design-faster-design-better)
