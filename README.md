@@ -20,8 +20,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [The 7 Step Process I Used To Build A Landing Page To Promote My Book](https://mishacreatrix.com/book-landing-page)
   * [6 Things Pokémon Cards Will Teach You About Design](https://mishacreatrix.com/pokemon-cards-teach-design)
   * [How To Add A Social Media Share Bar In Jekyll](https://mishacreatrix.com/social-media-share-jekyll)
   * [How To Add Related Posts In Jekyll To Increase Engagement](https://mishacreatrix.com/related-posts-jekyll)
   * [10 Ways I Use Figma As A Creator](https://mishacreatrix.com/figma-as-a-creator)
-  * [4 Tactics You Should Be Using To Promote Yourself As A Web Designer](https://mishacreatrix.com/web-design-promotion)
