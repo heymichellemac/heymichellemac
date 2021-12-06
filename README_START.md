@@ -4,14 +4,16 @@
 I'm a designer, developer, and creator. I talk about being a productive designer.
 
 
-## Free Resources
-- eBook: [Overcome The Blank Screen As A Creator](https://gum.co/blank-screen)
+## Resources
+- My latest book: [Design Faster, Design Better](https://designfaster.netlify.app/)
+- Free eBook: [Overcome The Blank Screen As A Creator](https://gum.co/blank-screen)
 - My Recommendations: [Things I Recommend](https://www.mishacreatrix.com/recommendations)
 
 ## My Work
 - Design Insight Newsletter: [Design Insight](https://designinsight.substack.com/)
-- Visit My Website: [Mishacreatrix](https://mishacreatrix.com/)
+- My Website: [Mishacreatrix](https://mishacreatrix.com/)
 - My Gumroad Page: [Mishacreatrix - Gumroad](https://gumroad.com/mishacreatrix)
+- Changelog: [Changelog](https://mishacreatrix-changelog.netlify.app/)
 - Ask Me A Question: [Twitter @mishacreatrix](https://twitter.com/MishaCreatrix)
 
 ## Support My Work
