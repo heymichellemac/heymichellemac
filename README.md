@@ -22,8 +22,8 @@ I'm a designer, developer, and creator. I talk about being a productive designer
 
 ## My Recent Articles
 
+  * [How To Add A Pomodoro Timer In Obsidian Without A Plugin](https://mishacreatrix.com/obsidian-pomodoro-timer)
   * [My Obsidian Daily Note Template 2022](https://mishacreatrix.com/obsidian-daily-note-2022)
   * [6 Procrastination Triggers And How To Overcome Them As A Designer](https://mishacreatrix.com/overcoming-procrastination-designer)
   * [How To Add A Table Of Contents To Jekyll Blog Posts](https://mishacreatrix.com/table-of-contents-jekyll)
   * [The 7 Step Process I Used To Build A Landing Page To Promote My Book](https://mishacreatrix.com/book-landing-page)
-  * [6 Things Pokémon Cards Will Teach You About Design](https://mishacreatrix.com/pokemon-cards-teach-design)
