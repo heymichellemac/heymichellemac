@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [Mishacreatrix - Twitter Threads](https://mishacreatrix.com/mishacreatrix-twitter-threads)
   * [These 7 Books Will Change How You Think About Being A Creative](https://mishacreatrix.com/best-books-for-creatives)
   * [I Scheduled My Creative Time For The Last 4 Weeks, Here’s What I Learned](https://mishacreatrix.com/scheduled-creative-time)
   * [How I Do My Weekly Review In Obsidian](https://mishacreatrix.com/weekly-review-obsidian)
   * [These 5 Tips Will Improve Your Designer To Developer Communications Today](https://mishacreatrix.com/designer-developer-communications)
-  * [These 7 Newsletters Are A Must Read For All Designers](https://mishacreatrix.com/newsletters-for-designers-2022)
