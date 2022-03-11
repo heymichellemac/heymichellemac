@@ -13,7 +13,7 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 - [My Website - Mishacreatrix](https://mishacreatrix.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
 - [My Gumroad Page](https://gumroad.com/mishacreatrix)
-- [My Changelog](https://mishacreatrix-changelog.netlify.app/)
+- [My Changelog](https://changelog.mishacreatrix.com/)
 - [Ask Me A Question On Twitter @mishacreatrix](https://twitter.com/MishaCreatrix)
 
 ## Resources
