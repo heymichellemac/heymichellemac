@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [How Dark Souls Helps You To Think About Failure](https://mishacreatrix.com/dark-souls-failure)
+  * [How Regular Reflection Makes You A Better Designer](https://mishacreatrix.com/atomic-essay)
   * [CharTools](https://mishacreatrix.com/char-tools)
   * [Mishacreatrix - Twitter Threads](https://mishacreatrix.com/mishacreatrix-twitter-threads)
   * [These 7 Books Will Change How You Think About Being A Creative](https://mishacreatrix.com/best-books-for-creatives)
-  * [I Scheduled My Creative Time For The Last 4 Weeks, Here’s What I Learned](https://mishacreatrix.com/scheduled-creative-time)
-  * [How I Do My Weekly Review In Obsidian](https://mishacreatrix.com/weekly-review-obsidian)
