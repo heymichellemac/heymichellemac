@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [Use Netflix To Easily Improve Your Design Skills](https://mishacreatrix.com/netflix-design-skills)
+  * [Video Game Trackers](https://mishacreatrix.com/video-game-trackers)
+  * [Why You Need A Daily Shutdown Routine](https://mishacreatrix.com/essay-daily-shutdown-routine)
   * [How Dark Souls Helps You To Think About Failure](https://mishacreatrix.com/dark-souls-failure)
-  * [How Regular Reflection Makes You A Better Designer](https://mishacreatrix.com/atomic-essay)
-  * [CharTools](https://mishacreatrix.com/char-tools)
-  * [Mishacreatrix - Twitter Threads](https://mishacreatrix.com/mishacreatrix-twitter-threads)
-  * [These 7 Books Will Change How You Think About Being A Creative](https://mishacreatrix.com/best-books-for-creatives)
+  * [How Regular Reflection Makes You A Better Designer](https://mishacreatrix.com/essay-regular-reflection)
