@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [Create An Inspiration Repository To Generate Unique Ideas](https://mishacreatrix.com/essay-inspiration-repository)
+  * [Jekyll - How To Display A Count Of Posts Per Tag Or Category](https://mishacreatrix.com/jekyll-post-count-tag-category)
+  * [Use An Inbox For Quick Capture To Avoid Distraction](https://mishacreatrix.com/essay-inbox)
   * [Use Netflix To Easily Improve Your Design Skills](https://mishacreatrix.com/netflix-design-skills)
   * [Video Game Trackers](https://mishacreatrix.com/video-game-trackers)
-  * [Why You Need A Daily Shutdown Routine](https://mishacreatrix.com/essay-daily-shutdown-routine)
-  * [How Dark Souls Helps You To Think About Failure](https://mishacreatrix.com/dark-souls-failure)
-  * [How Regular Reflection Makes You A Better Designer](https://mishacreatrix.com/essay-regular-reflection)
