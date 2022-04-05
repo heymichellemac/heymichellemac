@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [How I Create And Repurpose Content To Have The Most Impact Online](https://mishacreatrix.com/content-creation-pipeline)
   * [Digital Garden Of Notes](https://mishacreatrix.com/digital-garden)
   * [Create An Inspiration Repository To Generate Unique Ideas](https://mishacreatrix.com/essay-inspiration-repository)
   * [Jekyll - How To Display A Count Of Posts Per Tag Or Category](https://mishacreatrix.com/jekyll-post-count-tag-category)
   * [Use An Inbox For Quick Capture To Avoid Distraction](https://mishacreatrix.com/essay-inbox)
-  * [Use Netflix To Easily Improve Your Design Skills](https://mishacreatrix.com/netflix-design-skills)
