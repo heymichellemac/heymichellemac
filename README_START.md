@@ -19,7 +19,7 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## Resources
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
-- [My Stack](https://www.mishacreatrix.com/recommendations)
+- [My Stack](https://www.mishacreatrix.com/stack)
 
 ## Support My Work
 - [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
