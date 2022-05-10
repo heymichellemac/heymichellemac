@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [How I Use Obsidian To Take Action On The Content I Consume](https://mishacreatrix.com/obsidian-actionable-content)
   * [How I Manage Ads For My Newsletter With Airtable And Gumroad](https://mishacreatrix.com/manage-newsletter-ads)
   * [This Is How I Publish My Newsletter Every Week Without Fail](https://mishacreatrix.com/publish-my-newsletter-every-week)
   * [Obsidian Code Snippets Repo](https://mishacreatrix.com/obsidian-templates-repo)
   * [This 10 Step Checklist Will Instantly Improve Your Landing Page Design](https://mishacreatrix.com/improve-landing-page-design)
-  * [Why You Should Plan Your Day Ahead Of Time](https://mishacreatrix.com/essay-plan-your-day)
