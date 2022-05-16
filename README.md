@@ -9,6 +9,12 @@ In my own time I’m an online creator. I write articles, create digital product
 
 If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix).
 
+<a href="https://www.twitter.com/mishacreatrix" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/mishacreatrix?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/mishacreatrix" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/mishacreatrix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ## My Work
 - [My Website - Mishacreatrix](https://mishacreatrix.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
