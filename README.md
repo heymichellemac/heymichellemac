@@ -9,12 +9,6 @@ In my own time I’m an online creator. I write articles, create digital product
 
 If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix).
 
-<a href="https://www.twitter.com/mishacreatrix" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/mishacreatrix?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<a href="https://www.github.com/mishacreatrix" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/mishacreatrix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ## My Work
 - [My Website - Mishacreatrix](https://mishacreatrix.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
@@ -33,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [How I Consume Content To Build A Massively Helpful Vault Of Knowledge](https://mishacreatrix.com/essay-how-i-consume-content)
   * [How I Use Obsidian To Take Action On The Content I Consume](https://mishacreatrix.com/obsidian-actionable-content)
   * [How I Manage Ads For My Newsletter With Airtable And Gumroad](https://mishacreatrix.com/manage-newsletter-ads)
   * [This Is How I Publish My Newsletter Every Week Without Fail](https://mishacreatrix.com/publish-my-newsletter-every-week)
   * [Obsidian Code Snippets Repo](https://mishacreatrix.com/obsidian-templates-repo)
-  * [This 10 Step Checklist Will Instantly Improve Your Landing Page Design](https://mishacreatrix.com/improve-landing-page-design)
