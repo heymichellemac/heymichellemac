@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [Are You Following Your Life Signals? Here’s A Framework To Help You](https://mishacreatrix.com/essay-follow-your-life-signals)
   * [How I Consume Content To Build A Massively Helpful Vault Of Knowledge](https://mishacreatrix.com/essay-how-i-consume-content)
   * [How I Use Obsidian To Take Action On The Content I Consume](https://mishacreatrix.com/obsidian-actionable-content)
   * [How I Manage Ads For My Newsletter With Airtable And Gumroad](https://mishacreatrix.com/manage-newsletter-ads)
   * [This Is How I Publish My Newsletter Every Week Without Fail](https://mishacreatrix.com/publish-my-newsletter-every-week)
-  * [Obsidian Code Snippets Repo](https://mishacreatrix.com/obsidian-templates-repo)
