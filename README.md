@@ -27,8 +27,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## My Recent Articles
 
+  * [Here’s What Over 100 Creatives on Twitter Taught Me About Overcoming Creative Block](https://mishacreatrix.com/essay-overcome-creative-block)
   * [I Use These Tools to Gamify My Habits so I Can Stay Creative and Healthy](https://mishacreatrix.com/essay-tools-gamify-habits)
   * [Are You Following Your Life Signals? Here’s A Framework To Help You](https://mishacreatrix.com/essay-follow-your-life-signals)
   * [How I Consume Content To Build A Massively Helpful Vault Of Knowledge](https://mishacreatrix.com/essay-how-i-consume-content)
   * [How I Use Obsidian To Take Action On The Content I Consume](https://mishacreatrix.com/obsidian-actionable-content)
-  * [How I Manage Ads For My Newsletter With Airtable And Gumroad](https://mishacreatrix.com/manage-newsletter-ads)
