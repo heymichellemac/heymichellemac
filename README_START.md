@@ -7,22 +7,22 @@ I am currently employed as a UX designer + Technical Writer. I also create train
 
 In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and publish daily on Twitter.
 
-If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix).
+If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
 
 ## My Work
-- [My Website - Mishacreatrix](https://mishacreatrix.com/)
+- [My Website](https://heymichellemac.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
-- [My Gumroad Page](https://gumroad.com/mishacreatrix)
-- [My Changelog](https://changelog.mishacreatrix.com/)
-- [Ask Me A Question On Twitter @mishacreatrix](https://twitter.com/MishaCreatrix)
+- [My Gumroad Page](https://gumroad.com/heymichellemac)
+- [My Changelog](https://changelog.heymichellemac.com/)
+- [Ask Me A Question On Twitter @heymichellemac](https://twitter.com/heymichellemac)
 
 ## Resources
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
-- [My Stack](https://www.mishacreatrix.com/stack)
+- [My Stack](https://www.heymichellemac.com/stack)
 
 ## Support My Work
-- [Buy Me A Coffee](https://www.buymeacoffee.com/mishacreatrix)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac)
 
 
 ## My Recent Articles
