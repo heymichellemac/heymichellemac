@@ -1,5 +1,17 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> Hi I'm Michelle
+# 👋 Hi I'm Michelle
 
+<div id="badges">
+  <a href="https://twitter.com/heymichellemac">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/company/heymichellemac/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/heymichellemac">
+    <img src="https://img.shields.io/badge/Buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee Badge"/>
+  </a>
+
+</div>
 
 I'm a designer, developer, and creator based in Ireland 🍀
 
