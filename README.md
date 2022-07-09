@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.buymeacoffee.com/heymichellemac">
-    <img src="https://img.shields.io/badge/Buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee Badge"/>
+    <img src="https://img.shields.io/badge/Buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee Badge"/>
   </a>
 
 </div>
