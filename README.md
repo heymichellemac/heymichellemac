@@ -44,5 +44,6 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 - [Here’s What Over 100 Creatives on Twitter Taught Me About Overcoming Creative Block](https://heymichellemac.com/essay-overcome-creative-block)
 - [I Use These Tools to Gamify My Habits so I Can Stay Creative and Healthy](https://heymichellemac.com/essay-tools-gamify-habits)
 - [Are You Following Your Life Signals? Here’s A Framework To Help You](https://heymichellemac.com/essay-follow-your-life-signals)
+- [How I Consume Content To Build A Massively Helpful Vault Of Knowledge](https://heymichellemac.com/essay-how-i-consume-content)
 <!-- BLOG-POST-LIST:END -->
 
