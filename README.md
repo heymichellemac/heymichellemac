@@ -4,6 +4,9 @@
   <a href="https://twitter.com/heymichellemac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://heymichellemac.medium.com/membership">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://www.linkedin.com/company/heymichellemac/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,6 +30,7 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 - [My Gumroad Page](https://gumroad.com/heymichellemac)
 - [My Changelog](https://changelog.heymichellemac.com/)
 - [Ask Me A Question On Twitter @heymichellemac](https://twitter.com/heymichellemac)
+- [My Writing on Medium](https://heymichellemac.medium.com/membership)
 
 ## Resources
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
