@@ -44,10 +44,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Todoist As A Creative To Manage My Work And Get More Done](https://heymichellemac.com/managing-todoist)
 - [RTFM! Users Won’t Read Your Documentation, Here’s A Better Approach](https://heymichellemac.com/users-wont-read-documentation)
 - [Here’s Why the Notebook Is the Ultimate Tool for Creativity](https://heymichellemac.com/notebook-creativity)
 - [Managing Burnout Is A Life-Long Journey, That’s Why I’m Prioritizing Self-Care](https://heymichellemac.com/self-care-for-creatives)
 - [Here’s What Over 100 Creatives on Twitter Taught Me About Overcoming Creative Block](https://heymichellemac.com/essay-overcome-creative-block)
-- [I Use These Tools to Gamify My Habits so I Can Stay Creative and Healthy](https://heymichellemac.com/essay-tools-gamify-habits)
 <!-- BLOG-POST-LIST:END -->
 
