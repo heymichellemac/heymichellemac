@@ -44,10 +44,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A 10 Step Framework For Making Money Online As A Creative In 2022](https://heymichellemac.com/money-online-creative)
 - [Gaming Backlog Tracker](https://heymichellemac.com/gaming-backlog-tracker)
 - [These 4 Common UI Gotchas Are So Easy To Fix But Cost You Users Right Now!](https://heymichellemac.com/common-ui-gotchas)
 - [These 4 Typography-Related UI Issues Are Costing You Money! Here’s How To Fix Them](https://heymichellemac.com/type-ui-issues)
 - [How I Use Todoist As A Creative To Manage My Work And Get More Done](https://heymichellemac.com/managing-todoist)
-- [RTFM! Users Won’t Read Your Documentation, Here’s A Better Approach](https://heymichellemac.com/users-wont-read-documentation)
 <!-- BLOG-POST-LIST:END -->
 
