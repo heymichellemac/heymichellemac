@@ -44,10 +44,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s How To Get Your Bookmarks Out Of Twitter And Actually Use Them](https://heymichellemac.com/twitter-bookmarks)
 - [5 Practices I Follow Consistently After Reading The Bullet Journal Method](https://heymichellemac.com/practices-bullet-journal-method)
 - [Creating A Great Twitter Header Shouldn’t Take Weeks. Here’s How To Design One In Under An Hour](https://heymichellemac.com/twitter-header-design)
 - [A 10 Step Framework For Making Money Online As A Creative In 2022](https://heymichellemac.com/money-online-creative)
 - [Gaming Backlog Tracker](https://heymichellemac.com/gaming-backlog-tracker)
-- [These 4 Common UI Gotchas Are So Easy To Fix But Cost You Users Right Now!](https://heymichellemac.com/common-ui-gotchas)
 <!-- BLOG-POST-LIST:END -->
 
