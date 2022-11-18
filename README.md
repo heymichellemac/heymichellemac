@@ -1,6 +1,6 @@
 # 👋 Hi I'm Michelle
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="https://twitter.com/heymichellemac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee Badge"/>
   </a>
 
-</div>
+</div> -->
 
-I'm a designer, developer, and creator based in Ireland 🍀
+I'm a designer, front-end developer, and creator based in Ireland 🍀
 
-I am currently employed as a UX designer + Technical Writer. I also create training videos for the software we build.
+I am currently employed as a Technical Writer + Content Creator. I'm also actively learning front-end development.
 
-In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and publish daily on Twitter.
+In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and publish daily on social media.
 
 If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
 
@@ -28,13 +28,19 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 - [My Website](https://heymichellemac.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
 - [My Gumroad Page](https://gumroad.com/heymichellemac)
-- [My Changelog](https://changelog.heymichellemac.com/)
-- [Ask Me A Question On Twitter @heymichellemac](https://twitter.com/heymichellemac)
 - [My Writing on Medium](https://heymichellemac.medium.com/membership)
+- [My Changelog](https://changelog.heymichellemac.com/)
+
+## Social Media
+- [Mastadon](https://pkm.social/@heymichellemac)
+- [Twitter](https://twitter.com/heymichellemac)
+- [LinkedIn](https://www.linkedin.com/company/heymichellemac/)
 
 ## Resources
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
+- [Video Game Trackers](https://heymichellemac.com/video-game-trackers)
+- [Design Insight Tools + Resources](https://heymichellemac.com/design-insight-tools)
 - [My Stack](https://www.heymichellemac.com/stack)
 
 ## Support My Work
