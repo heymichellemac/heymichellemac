@@ -16,11 +16,11 @@
 
 </div> -->
 
-I'm a designer, front-end developer, and creator based in Ireland 🍀
+I'm a Technical Writer, Front-End Developer, and Creator based in Ireland 🍀
 
 I am currently employed as a Technical Writer + Content Creator. I'm also actively learning front-end development.
 
-In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and publish daily on social media.
+In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and work on fun projects.
 
 If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
 
