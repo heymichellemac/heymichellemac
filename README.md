@@ -50,10 +50,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A Creative’s Secret Power-Up - The Power Of Noticing](https://heymichellemac.com/notice-world-around)
 - [Help! I’m A Digital Hoarder](https://heymichellemac.com/digital-hoarder)
 - [How to get started learning to draw with an iPad and Apple Pencil](https://heymichellemac.com/drawing-digitally-ipad-pencil)
 - [How I Use Embedded Queries In Obsidian To Simplify My Note Management](https://heymichellemac.com/embedded-queries-obsidian)
 - [How I Reframed My Digital Life After Reading Building a Second Brain](https://heymichellemac.com/digital-life-building-second-brain)
-- [Here’s How To Get Your Bookmarks Out Of Twitter And Actually Use Them](https://heymichellemac.com/twitter-bookmarks)
 <!-- BLOG-POST-LIST:END -->
 
