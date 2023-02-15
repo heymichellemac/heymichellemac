@@ -50,10 +50,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [When Eliminating Distractions Is A Bad Thing](https://heymichellemac.com/eliminating-distractions)
 - [Erasable Pens Make Writing by Hand Delightful Again](https://heymichellemac.com/erasable-pens)
 - [Button Or No Button?](https://heymichellemac.com/buttons-in-cars)
 - [Do You Need An Emotional Support Water Bottle?](https://heymichellemac.com/water-bottle)
 - [A Creative’s Secret Power-Up - The Power Of Noticing](https://heymichellemac.com/notice-world-around)
-- [Help! I’m A Digital Hoarder](https://heymichellemac.com/digital-hoarder)
 <!-- BLOG-POST-LIST:END -->
 
