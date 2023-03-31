@@ -50,10 +50,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Format To Distil What You Learn](https://heymichellemac.com/distil-what-you-learn)
+- [Wexford SPCA](https://heymichellemac.com/website-wexford-spca)
 - [The Desire To Document And Collect](https://heymichellemac.com/desire-to-document)
 - [What’s the Deal with Road Signs Anyway?](https://heymichellemac.com/ux-road-signs)
 - [Behind the Scenes of Like a Dragon!](https://heymichellemac.com/behind-the-scenes-like-a-dragon)
-- [The Use Of Color In Better Call Saul](https://heymichellemac.com/color-better-call-saul)
-- [When Eliminating Distractions Is A Bad Thing](https://heymichellemac.com/eliminating-distractions)
 <!-- BLOG-POST-LIST:END -->
 
