@@ -16,7 +16,7 @@
 
 </div> -->
 
-I'm a Technical Writer, Front-End Developer, and Creator based in Ireland 🍀
+I'm a Technical Writer and Front-End Developer based in Ireland 🍀
 
 In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and work on fun projects.
 
@@ -25,20 +25,19 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Work
 - [My Website](https://heymichellemac.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
-- [My Gumroad Page](https://gumroad.com/heymichellemac)
+- [My Store](https://store.heymichellemac.com/)
 - [My Writing on Medium](https://heymichellemac.medium.com/membership)
 - [My Changelog](https://changelog.heymichellemac.com/)
 
 ## Social Media
+- [LinkedIn](https://www.linkedin.com/in/michellemccausland/)
 - [Mastadon](https://pkm.social/@heymichellemac)
 - [Twitter](https://twitter.com/heymichellemac)
-- [LinkedIn](https://www.linkedin.com/company/heymichellemac/)
 
 ## Resources
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
 - [Video Game Trackers](https://heymichellemac.com/video-game-trackers)
-- [Design Insight Tools + Resources](https://heymichellemac.com/design-insight-tools)
 - [My Stack](https://www.heymichellemac.com/stack)
 
 ## Support My Work
