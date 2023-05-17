@@ -47,10 +47,10 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Doing Nothing but Playing Cozy Games](https://heymichellemac.com/cozy-games)
+- [Gaming Blog](https://heymichellemac.com/gaming-blog)
 - [Song Exploder But For X](https://heymichellemac.com/song-exploder)
 - [The Fun World Of Collage](https://heymichellemac.com/fun-world-of-collage)
 - [How To Stay Creative - Pop Your Algorithm Bubble](https://heymichellemac.com/pop-your-algorithm-bubble)
-- [A Simple Format To Distil What You Learn](https://heymichellemac.com/distil-what-you-learn)
-- [Wexford SPCA](https://heymichellemac.com/website-wexford-spca)
 <!-- BLOG-POST-LIST:END -->
 
