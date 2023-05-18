@@ -49,8 +49,8 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 <!-- BLOG-POST-LIST:START -->
 - [Doing Nothing but Playing Cozy Games](https://heymichellemac.com/cozy-games)
 - [Gaming Blog](https://heymichellemac.com/gaming-blog)
+- [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
 - [Song Exploder But For X](https://heymichellemac.com/song-exploder)
 - [The Fun World Of Collage](https://heymichellemac.com/fun-world-of-collage)
-- [How To Stay Creative - Pop Your Algorithm Bubble](https://heymichellemac.com/pop-your-algorithm-bubble)
 <!-- BLOG-POST-LIST:END -->
 
