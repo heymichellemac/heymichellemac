@@ -18,16 +18,13 @@
 
 I'm a Technical Writer and Front-End Developer based in Ireland 🍀
 
-In my own time I’m an online creator. I write articles, create digital products, release a weekly newsletter, and work on fun projects.
-
-If you enjoy my work and find value in the things that I share here or anywhere else on the internets, maybe consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
+In my own time I write articles, release a weekly newsletter, create digital products, and work on fun projects.
 
 ## My Work
 - [My Website](https://heymichellemac.com/)
 - [Design Insight Newsletter](https://designinsight.substack.com/)
 - [My Store](https://store.heymichellemac.com/)
-- [My Writing on Medium](https://heymichellemac.medium.com/membership)
-- [My Changelog](https://changelog.heymichellemac.com/)
+- [My Writing on Medium](https://heymichellemac.medium.com/)
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/michellemccausland/)
@@ -35,6 +32,7 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 - [Twitter](https://twitter.com/heymichellemac)
 
 ## Resources
+- [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
 - [Video Game Trackers](https://heymichellemac.com/video-game-trackers)
@@ -42,7 +40,6 @@ If you enjoy my work and find value in the things that I share here or anywhere 
 
 ## Support My Work
 - [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac)
-
 
 ## My Recent Articles
 
