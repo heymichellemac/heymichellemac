@@ -44,10 +44,10 @@ In my own time I write articles, release a weekly newsletter, create digital pro
 ## My Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What the Heck Are Those Smiley Face Sponges I Keep Seeing on TikTok?](https://heymichellemac.com/scrub-daddy)
 - [Doing Nothing but Playing Cozy Games](https://heymichellemac.com/cozy-games)
 - [Gaming Blog](https://heymichellemac.com/gaming-blog)
 - [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
 - [Song Exploder But For X](https://heymichellemac.com/song-exploder)
-- [The Fun World Of Collage](https://heymichellemac.com/fun-world-of-collage)
 <!-- BLOG-POST-LIST:END -->
 
