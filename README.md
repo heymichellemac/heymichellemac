@@ -18,7 +18,7 @@
 
 I'm a Senior Technical Writer based in Ireland 🍀
 
-Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh/michellemacrh)
+Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh)
 
 In my own time, I write articles, release a weekly newsletter, create digital products, and work on fun projects.
 
