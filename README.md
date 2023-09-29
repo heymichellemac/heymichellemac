@@ -52,3 +52,5 @@ In my own time, I write articles, release a weekly newsletter, create digital pr
 - [Song Exploder But For X](https://heymichellemac.com/song-exploder)
 <!-- BLOG-POST-LIST:END -->
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=heymichellemac&show_icons=true&theme=dracula)
+
