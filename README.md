@@ -16,9 +16,11 @@
 
 </div> -->
 
-I'm a Technical Writer and Front-End Developer based in Ireland 🍀
+I'm a Senior Technical Writer based in Ireland 🍀
 
-In my own time I write articles, release a weekly newsletter, create digital products, and work on fun projects.
+Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh/michellemacrh)
+
+In my own time, I write articles, release a weekly newsletter, create digital products, and work on fun projects.
 
 ## My Work
 - [My Website](https://heymichellemac.com/)
@@ -29,7 +31,6 @@ In my own time I write articles, release a weekly newsletter, create digital pro
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/michellemccausland/)
 - [Mastadon](https://pkm.social/@heymichellemac)
-- [Twitter](https://twitter.com/heymichellemac)
 
 ## Resources
 - [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
