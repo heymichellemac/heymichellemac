@@ -8,23 +8,21 @@ Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh)
 
 ## Where you can find me
 - [My Website](https://heymichellemac.com/)
-<!-- - [Design Insight Newsletter](https://designinsight.substack.com/) -->
 - [My Store](https://store.heymichellemac.com/)
 - [My Writing on Medium](https://heymichellemac.medium.com/)
-
-## Social Media
 - [LinkedIn](https://www.linkedin.com/in/michellemccausland/)
 - [Mastadon](https://pkm.social/@heymichellemac)
+<!-- - [Design Insight Newsletter](https://designinsight.substack.com/) -->
 
 ## Resources
 - [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
 - [Design Faster, Design Better - Book](https://designfaster.netlify.app/)
 - [Overcome The Blank Screen As A Creator - Free eBook](https://gum.co/blank-screen)
-<!-- - [Video Game Trackers](https://heymichellemac.com/video-game-trackers)
 - [My Stack](https://www.heymichellemac.com/stack) -->
 - [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac)
+<!-- - [Video Game Trackers](https://heymichellemac.com/video-game-trackers) -->
 
-## My Recent Articles
+## Recent articles
 
 <!-- BLOG-POST-LIST:START -->
 - [What the Heck Are Those Smiley Face Sponges I Keep Seeing on TikTok?](https://heymichellemac.com/scrub-daddy)
