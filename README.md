@@ -25,11 +25,11 @@ Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh)
 ## Recent articles
 
 <!-- BLOG-POST-LIST:START -->
-- [My GOTYs 2023 Edition](https://heymichellemac.com/gotys-2023)
-- [What the Heck Are Those Smiley Face Sponges I Keep Seeing on TikTok?](https://heymichellemac.com/scrub-daddy)
-- [Doing Nothing but Playing Cozy Games](https://heymichellemac.com/cozy-games)
-- [Starter Link Page Templates](https://heymichellemac.com/link-page-templates)
-- [Song Exploder But For X](https://heymichellemac.com/song-exploder)
+- [My GOTYs 2023 edition](https://heymichellemac.com/gotys-2023)
+- [What the heck are those smiley face sponges I keep seeing on TikTok?](https://heymichellemac.com/scrub-daddy)
+- [Doing nothing but playing cozy games](https://heymichellemac.com/cozy-games)
+- [Starter link page templates](https://heymichellemac.com/link-page-templates)
+- [Song exploder but for x](https://heymichellemac.com/song-exploder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
