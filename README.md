@@ -25,11 +25,11 @@ Work GitHub Profile: [michellemacrh](https://github.com/michellemacrh)
 ## Recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Website updates - a continuous journey](https://heymichellemac.com/website-updates-continuous-journey)
 - [My GOTYs 2023 edition](https://heymichellemac.com/gotys-2023)
 - [What the heck are those smiley face sponges I keep seeing on TikTok?](https://heymichellemac.com/scrub-daddy)
 - [Doing nothing but playing cozy games](https://heymichellemac.com/cozy-games)
 - [Starter link page templates](https://heymichellemac.com/link-page-templates)
-- [Song exploder but for x](https://heymichellemac.com/song-exploder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
